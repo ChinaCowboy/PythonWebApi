@@ -1,3 +1,3 @@
 # PythonWebApi
 
-my first git hub web api writing with pythons
+my first git hub web api writing with python
